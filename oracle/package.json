@@ -1,0 +1,15 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "hardhat compile",
+    "flatten": "hardhat flatten > flatten/oracle-flatten.sol"
+  },
+  "devDependencies": {
+    "@chainlink/contracts": "^1.1.0",
+    "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
