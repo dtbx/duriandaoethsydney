@@ -9,3 +9,10 @@ For discerning members of DAOs who prioritize enhancing the proposal process, AD
 # Integrations
 
 ## Chainlink
+
+### Oracle API
+https://aleph-oracle.rphi.xyz/docs
+
+### Oracle Contract
+https://sepolia.etherscan.io/address/0xE55795C1543cEf00E41878f251bfED8Fb83a0dc5
+
