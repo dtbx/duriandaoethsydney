@@ -1,0 +1,17 @@
+SQLAlchemy
+duckduckgo_search
+aiosqlite
+alembic
+telebot
+python-dotenv
+aiohttp
+requests
+pyyaml
+langchain
+pydantic
+jsonschema
+yfinance
+nltk
+ipfs-api
+fastapi
+uvicorn
